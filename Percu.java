@@ -10,6 +10,6 @@ public class Percu extends Instrument{
         System.out.println("Està sonant un instrument de percussió.");
     }
     public static String tocarMetodeEstatic(){
-        return "Està sonant un instrument de vent.";
+        return "Està sonant un instrument de percussió.";
     }
 }
