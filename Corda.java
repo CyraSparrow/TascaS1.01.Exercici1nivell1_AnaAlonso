@@ -7,6 +7,8 @@ public class Corda extends  Instrument{
 
         System.out.println("Està sonant un instrument de corda.");
     }
+    public static String tocarMetodeEstatic(){
+        return "Està sonant un instrument de corda.";
 
-
+}
 }
