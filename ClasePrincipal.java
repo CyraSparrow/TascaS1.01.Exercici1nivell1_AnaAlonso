@@ -15,4 +15,9 @@ public class ClasePrincipal{
                 violin.tocar();
                 bateria.tocar();
         }
+   //aplicación método static
+
+        System.out.println(Percu.tocar_static());
+        System.out.println(Vent.tocar_static());
+        System.out.println(Corda.tocar_static());
 }
