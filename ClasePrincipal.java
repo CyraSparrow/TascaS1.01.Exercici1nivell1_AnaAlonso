@@ -17,7 +17,7 @@ public class ClasePrincipal{
         }
    //aplicación método static
 
-        System.out.println(Percu.tocar_static());
-        System.out.println(Vent.tocar_static());
-        System.out.println(Corda.tocar_static());
+        System.out.println(Percu.tocarMetodeEstatic());
+        System.out.println(Vent.tocarMetodeEstatic());
+        System.out.println(Corda.tocarMetodeEstatic());
 }
